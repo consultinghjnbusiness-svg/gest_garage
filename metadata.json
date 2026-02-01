@@ -1,0 +1,7 @@
+{
+  "name": "GarageMaster Pro",
+  "description": "A comprehensive automotive workshop management system for tracking clients, vehicles, repairs, inventory, and financial performance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
